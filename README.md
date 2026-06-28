@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D0E7E6,100:1a1a2e&height=120&section=header" width="100%" />
 
 </div>
 
@@ -428,6 +428,6 @@ Learning       >   Perfection
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D0E7E6,100:0f0f0f&height=80&section=footer" width="100%" />
 
 </div>
