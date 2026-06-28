@@ -268,7 +268,7 @@ A clean productivity application focused on organizing tasks through an intuitiv
 
 ### 💻 PPS Practice Hub
 
-A practice platform created for first-year engineering students featuring C programming exercises, progress tracking, and a clean learning experience.
+A practice platform created for first-year engineering students featuring Python programming exercises, progress tracking, and a clean learning experience.
 
 **Tech Stack**
 
@@ -276,7 +276,7 @@ A practice platform created for first-year engineering students featuring C prog
 
 **Highlights**
 
-- 📚 20+ C Programs
+- 📚 20+ Python Programs
 - 📈 Progress Tracking
 - 🎯 Student Focused
 - ⚡ Lightweight
