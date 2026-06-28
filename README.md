@@ -284,7 +284,7 @@ A practice platform created for first-year engineering students featuring C prog
 <br>
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theafzalansari/pps-practice-hub)
-[![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](pps-practice-hub.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://pps-practice-hub.vercel.app/)
 
 </td>
 
