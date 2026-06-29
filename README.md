@@ -54,7 +54,7 @@ My interests span frontend development, data structures & algorithms, and AI-pow
 
 **Bachelor of Engineering — Electronics & Computer Engineering**
 
-Mumbai Educational Trust (MET) · Bhujbal Knowledge City · Savitribai Phule Pune University (SPPU)
+Mumbai Educational Trust (MET) · Bhujbal Knowledge City - Institute of Engineering · Savitribai Phule Pune University (SPPU)
 
 `Aug 2025 — Present`
 
