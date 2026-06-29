@@ -66,24 +66,6 @@ Mumbai Educational Trust (MET) · Bhujbal Knowledge City · Savitribai Phule Pun
 
 <br/>
 
-## Quick Facts
-
-```
-🎓  BE Electronics & Computer Engineering
-🏫  MET Institute of Engineering, Pune
-📍  Maharashtra, India
-⭐  Semester I SGPA: 8.55 / 10
-💻  Started Programming: September 2025
-🌍  Learning German — 70+ Day Streak
-🎯  Goal: Software Development Engineer
-```
-
-<br/>
-
----
-
-<br/>
-
 ## Journey
 
 ```
