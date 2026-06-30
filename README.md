@@ -137,7 +137,7 @@ Mumbai Educational Trust (MET) · Bhujbal Knowledge City - Institute of Engineer
 ## Currently Building
 
 ```
-▸  ResumeSight AI          —  AI-powered resume analysis tool  [In Progress]
+▸  ResumeCraft AI          —  AI-powered resume generation  [In Progress]
 ▸  Developer Portfolio     —  Personal portfolio website       [Planning]
 ▸  MERN Stack Learning     —  Full-stack foundations           [Active]
 ```
@@ -172,24 +172,24 @@ AI Integration █████░░░░░  Exploring
 
 <td width="50%" valign="top">
 
-### 🤖 ResumeSight AI <sup>⭐ Featured</sup>
+### 🤖 ResumeCraft AI <sup>⭐ Featured</sup>
 
-**AI-powered Resume Analyzer** that evaluates resumes, provides ATS-friendly feedback, highlights improvement areas, and helps users build stronger resumes.
+**AI-powered Resume Builder** that creates ATS-friendly, professional resumes with customizable templates and intelligent content suggestions.
 
 **Tech Stack**
 
-`React` `AI` `PDF Processing`
+`React` `Google Gemini API` `Clerk` `Vercel`
 
 **Highlights**
 
-- 🤖 AI-powered analysis
-- 📄 Resume scoring
-- 📈 ATS optimization
-- 💡 Actionable feedback
+- 🤖 AI-powered resume generation
+- 📄 ATS-friendly professional resume templates
+- 🔐 Secure user authentication & resume management
+- 📥 Export polished resumes as PDF
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theafzalansari)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theafzalansari/resume-craft-ai)
 [![Live Demo](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_VERCEL_LINK)
 
 </td>
@@ -342,24 +342,6 @@ A practice platform created for first-year engineering students featuring Python
 *DSA is not about memorizing solutions. It's about building intuition.*
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## Goals
-
-```
-◻  Build production-ready web applications
-◻  Strengthen DSA & problem solving
-◻  Contribute to Open Source
-◻  Build AI-powered tools
-◻  Secure an SDE Internship
-◻  Reach B2 in German
-◻  Become an SDE at a top product-based company
-```
 
 <br/>
 
