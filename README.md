@@ -80,7 +80,7 @@ Mumbai Educational Trust (MET) · Bhujbal Knowledge City - Institute of Engineer
       ──  Learned JavaScript (ES6+)
       ──  Started React & Tailwind CSS
       ──  Built: Amazon-clone-html-css · Profile Card · Sieca Calculator · Chronos · PPS Practice Hub ·  Movieflix React 
-      ──  Working on: ResumeSight AI 
+      ──  Working on: ResumeCraft AI 
       ──  70+ Day German Learning Streak — still going
 ```
 
